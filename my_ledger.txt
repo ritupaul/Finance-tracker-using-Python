@@ -1,0 +1,30 @@
+Date/Time: 2023-09-13 13:21:39
+Item Name: Widget
+Category: Electronics
+Amount: 19.99
+--------------------
+Date/Time: 2023-09-13 13:22:50
+Item Name: Chicken breast
+Category: Groceries
+Amount: 5.99
+--------------------
+Date/Time: 2023-09-13 13:23:35
+Item Name: Jeans
+Category: Clothing
+Amount: 13.99
+--------------------
+Date/Time: 2023-09-13 13:34:20
+Item Name: Cereals
+Category: Groceries
+Amount: 3.99
+--------------------
+Date/Time: 2023-09-13 13:34:51
+Item Name: Milk
+Category: Groceries
+Amount: 9.99
+--------------------
+Date/Time: 2023-09-13 13:35:46
+Item Name: Blouse
+Category: Clothing
+Amount: 9.99
+--------------------
